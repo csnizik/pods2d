@@ -1,0 +1,22 @@
+{
+  "name": "pods2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csnizik/pods2d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csnizik/pods2d/issues"
+  },
+  "homepage": "https://github.com/csnizik/pods2d#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
